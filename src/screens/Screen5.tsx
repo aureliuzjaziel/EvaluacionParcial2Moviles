@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Text, TextInput, Button, View } from 'react-native';
-import { styles } from '../theme/estilos'; // Importa los estilos
+import { styles } from '../theme/estilos'; 
 import { CustomButton } from '../components/CustomButton';
 
 export const Screen5 = () => {
@@ -45,6 +45,6 @@ export const Screen5 = () => {
         
         
       
-    </View>
+    </View> 
   );
 };
